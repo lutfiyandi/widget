@@ -1,0 +1,18 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Lutfi rokyu",
+  "description": "Terdaftar di Blogger. Dapat diakses mesin telusur.",
+  "short_name": "Lutfi rokyu",
+  "icons": [{
+    "src": "//3.bp.blogspot.com/-F5hC0wLPhwk/WRQ2F8FVF3I/AAAAAAAABQs/5nzfklOQUGIUTrJ_QG8v0dXweMHDUgZrgCLcB/s1600/manga%2Bnubi%2B64.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }],
+  "scope": "/racer/",
+  "start_url": "//lutfirokyu.blogspot.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "steelblue",
+  "background_color": "steelblue"
+}
